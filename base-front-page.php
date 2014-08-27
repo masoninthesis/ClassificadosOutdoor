@@ -20,91 +20,18 @@
   ?>
   
 
-  <section id="home" class="home jack-things">
-    <div class="wrap container" role="document">
-      <div class="content row">
-      	<div class="col-sm-4 col-sm-offset-2">
-          	<img class="art img-responsive" src="http://masonlawlor.com/smartkit/assets/images/graphics/security.png" />
-        </div>
-        <div class="col-sm-6"> 
-          <h2><img class="security-icon" src="http://masonlawlor.com/smartkit/assets/images/security.png" /> Home Security</h2>
-		    <ul class="big-list">
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/1-perimeter.png"/> Perimeter Protection</li>
-	          <li><img class="icons motion" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/2-motion.png"/> Motion Detection</li>
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/3-smoke.png"/> Smoke & CO Detection</li>
-	        </ul>
-	        <div class="alert alert-t4tg">Starting at <span class="price-security">$34.99</span>/m</div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <button class="btn btn-default btn-lg security-btn">Pre-order <i class="fa fa-chevron-right"></i></button>
-        </div>
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
-  </section>
-
-  <section id="energy" class="highlight home jack-things">
-    <div class="wrap container" role="document">
-      <div class="content row">
-      	<div class="col-sm-4 col-sm-offset-2">
-          <img class="art img-responsive" src="http://masonlawlor.com/smartkit/assets/images/graphics/energy.png" />
-        </div>
-        <div class="col-sm-6">
-          <h2><img class="energy-icon" src="http://masonlawlor.com/smartkit/assets/images/energy.png" /> Smart Energy</h2>
-          <ul class="big-list">
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/4-temp.png"/> Thermostat Control</li>
-	          <li><img class="icons motion" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/5-lights.png"/> Light Control</li>
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/6-sched.png"/> Energy Saving Schedules</li>
-	        </ul>
-          <div class="alert alert-t4tg">Starting at <span class="price-energy">$42.99</span>/m</div>
-        </div>
-      </div>
-      <div class="row">
-      	<div class="col-sm-12">
-          <button class="btn btn-default btn-lg energy-btn">Pre-order  <i class="fa fa-chevron-right"></i></button>
-        </div>
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
-  </section>
-
-  <section id="auto" class="home jack-things">
-    <div class="wrap container" role="document">
-      <div class="content row">
-      <div class="col-sm-4 col-sm-offset-2">
-          <img class="art img-responsive" src="http://masonlawlor.com/smartkit/assets/images/graphics/auto.png" />
-        </div>
-        <div class="col-sm-6">
-          <h2><img class="auto-icon" src="http://masonlawlor.com/smartkit/assets/images/automation.png" /> Home Automation</h2>
-          <ul class="big-list">
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/7-locks.png"/> Door Lock Control</li>
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/8-moods.png"/> Mood Presets</li>
-	          <li><img class="icons" src="http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/img/icons/9-cams.png"/> Wifi Surveillance</li>
-	        </ul>
-          <div class="alert alert-t4tg">Starting at <span class="price-auto">$56.99</span>/m</div>
-        </div>
-      </div>
-      <div class="row">
-      	<div class="col-sm-12">
-          <button class="btn btn-default btn-lg auto-btn">Pre-order  <i class="fa fa-chevron-right"></i></button>
-        </div>
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
-  </section>
-  
-<hr>
-  
-  <section id="bottom-cta" class="home">
-    <div class="wrap container" role="document">
-      <div class="content row">
-        <div class="col-sm-12">
-	          <h1>Rationality meets smart home.</h1>
-          <h3>Pre-order your <span class="smart-home">SmartKit</span> on Kickstarter</h3>
-          <center><button href="" type="button" class="btn btn-default cta-btn blog-cta"  data-toggle="modal" data-target="#myModal">Back on Kickstarter</button></center>
-          <center><a href="" data-toggle="modal" data-target="#myModal">Virtual Walk-thru: How to pick the right equipment for your home</a></center>
-        </div>
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
+  <section>
+  	<div class="row">
+	  	<div class="col-sm-4">
+	  		<h3>Number 1</h3>
+	  	</div>
+	  	<div class="col-sm-4">
+	  		<h3>Number 2</h3>
+	  	</div>
+	  	<div class="col-sm-4">
+	  		<h3>Number 3</h3>
+	  	</div>
+  	</div>
   </section>
 
 

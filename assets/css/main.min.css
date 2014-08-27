@@ -5856,6 +5856,9 @@ h4 {
 .home-nav {
   color: #db713a;
 }
+.bottom-nav {
+  border-top: 1px #e7e7e7 solid;
+}
 .hero-btn {
   padding: 18px 44px 12px 44px;
   border-color: #DB4252;
@@ -5878,22 +5881,8 @@ h4 {
   background-color: #E43760;
   color: #fff;
 }
-.nav-btn {
-  padding: 18px 24px 12px 24px;
-  border-top: 2px solid #d43131;
-  border-bottom: 2px solid #dc2d8d;
-  margin: 20px auto;
-  display: block;
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#d43131), to(#dc2d8d));
-  background-image: -webkit-linear-gradient(#d43131, #dc2d8d);
-  background-image: -moz-linear-gradient(#d43131, #dc2d8d), -moz-linear-gradient(#d43131, #dc2d8d);
-  background-image: -o-linear-gradient(#d43131, #dc2d8d), -o-linear-gradient(#d43131, #dc2d8d);
-  background-image: linear-gradient(#d43131, #dc2d8d), linear-gradient(#d43131, #dc2d8d);
-  -moz-background-size: 2px 100%;
-  background-size: 2px 100%;
-  background-position: 0 0, 100% 0;
-  background-repeat: no-repeat;
-  font-family: 'Avenir LT', helvetica, serif;
+.login-btn {
+  margin-top: 30px;
 }
 .nav-btn:hover {
   border-top: 2px solid #dc2d8d;
@@ -6247,6 +6236,21 @@ a:hover {
 .navbar-default .navbar-nav > .active > a:focus {
   background-color: transparent;
   height: 87px;
+}
+@media (max-width: 1200px) {
+  nav ul li {
+    padding: 30px;
+  }
+}
+@media (max-width: 992px) {
+  nav ul li {
+    padding: 200px;
+  }
+}
+@media (max-width: 768px) {
+  nav ul li {
+    padding: 10px;
+  }
 }
 /***********************/
 /* Above the Fold */

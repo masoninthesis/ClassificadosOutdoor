@@ -1,15 +1,15 @@
 <footer class="content-info" role="contentinfo">
   
- <section>
-  <div class="container">
-  <div class="row">
-	  	<div class="col-sm-12">
-		  	<div class="alert alert-footer alert-t4tg">
-		  	<a class="footer-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//smartkit/assets/images/logo.png" alt="logo-nav" width="auto" height="28px" /></a>
-		  	<p class="copyright">&copy; 2014</p>
+	<nav class="navbar-fixed-bottom collapse navbar-collapse bottom-nav" role="navigation">
+		<div class="row-fluid">
+		    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//smartkit/assets/images/logo.png" alt="logo-nav" width="auto" height="48px" /></a>
+			<?php
+			if (has_nav_menu('primary_navigation')) :
+			  wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav navbar-nav'));
+			endif;
+			?>
 		</div>
-  </div>
- </section>
+    </nav>
 </footer>
 
 <?php wp_footer(); ?>
