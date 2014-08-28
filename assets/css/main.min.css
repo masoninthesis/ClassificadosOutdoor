@@ -6206,7 +6206,7 @@ a:hover {
 }
 @media (min-width: 768px) {
   #menu-primary-navigation {
-    float: right;
+    float: left;
   }
 }
 .navbar {
@@ -6251,6 +6251,12 @@ a:hover {
   nav ul li {
     padding: 10px;
   }
+}
+.footer-navbar {
+  float: left;
+}
+.navbar-right {
+  float: right !important;
 }
 /***********************/
 /* Above the Fold */

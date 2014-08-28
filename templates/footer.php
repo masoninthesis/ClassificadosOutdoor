@@ -1,15 +1,27 @@
 <footer class="content-info" role="contentinfo">
   
-	<nav class="navbar-fixed-bottom collapse navbar-collapse bottom-nav" role="navigation">
-		<div class="row-fluid">
-		    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//smartkit/assets/images/logo.png" alt="logo-nav" width="auto" height="48px" /></a>
-			<?php
-			if (has_nav_menu('primary_navigation')) :
-			  wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav navbar-nav'));
-			endif;
-			?>
+	<header class="navbar-fixed-bottom bottom-nav" role="navigation">
+		<div class="container">
+			<div class="footer-navbar">
+				<nav class="collapse navbar-collapse">
+					<?php
+					if (has_nav_menu('primary_navigation')) :
+					  wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav navbar-nav'));
+					endif;
+					?>
+					
+				</nav>
+			</div>
+			<ul class="menu-primary-navbar navbar-right">
+						<li>
+							Yo
+							<!--<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//smartkit/assets/images/logo.png" alt="logo-nav" width="auto" height="48px" /></a> -->
+						</li>
+				</ul>
 		</div>
-    </nav>
+    </header>
 </footer>
 
 <?php wp_footer(); ?>
+
+
