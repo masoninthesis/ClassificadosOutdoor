@@ -6237,16 +6237,6 @@ a:hover {
   background-color: transparent;
   height: 87px;
 }
-@media (max-width: 1200px) {
-  nav ul li {
-    padding: 30px;
-  }
-}
-@media (max-width: 992px) {
-  nav ul li {
-    padding: 200px;
-  }
-}
 @media (max-width: 768px) {
   nav ul li {
     padding: 10px;
@@ -6257,6 +6247,10 @@ a:hover {
 }
 .navbar-right {
   float: right !important;
+  list-style: none;
+}
+.bottom-nav {
+  height: 100px;
 }
 /***********************/
 /* Above the Fold */
