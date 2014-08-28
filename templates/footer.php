@@ -12,9 +12,9 @@
 					
 				</nav>
 			</div>
-			<ul class="menu-primary-navbar navbar-right">
+			<ul class="navbar-right">
 						<li>
-							<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//smartkit/assets/images/logo.png" alt="logo-nav" width="auto" height="48px" /></a>
+							<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//assets/Logo.png" alt="logo-nav" width="auto" height="48px" /></a>
 						</li>
 				</ul>
 		</div>

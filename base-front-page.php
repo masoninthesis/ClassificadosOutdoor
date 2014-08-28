@@ -22,16 +22,19 @@
 
   <section>
   	<div class="row">
-	  	<div class="col-sm-4">
-	  		<h3>Number 1</h3>
+	  	<div class="col-sm-4 col-sm-offset-4">
+	  		<ul class="list-inline">
+	  			<li>
+			  		<h4>Number 1</h3>
+	  			</li>
+	  			<li>
+		  			<h4>Number 2</h3>
+	  			</li>
+	  			<li>
+		  			<h4>Number 3</h3>
+	  			</li>
+	  		</ul>
 	  	</div>
-	  	<div class="col-sm-4">
-	  		<h3>Number 2</h3>
-	  	</div>
-	  	<div class="col-sm-4">
-	  		<h3>Number 3</h3>
-	  	</div>
-  	</div>
   </section>
 
 

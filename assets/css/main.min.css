@@ -5882,7 +5882,7 @@ h4 {
   color: #fff;
 }
 .login-btn {
-  margin-top: 30px;
+  margin-top: 9px;
 }
 .nav-btn:hover {
   border-top: 2px solid #dc2d8d;
@@ -6189,7 +6189,6 @@ a:hover {
 @media (min-width: 768px) {
   .navbar-brand,
   .navbar-nav > li > a {
-    padding-top: 24px;
     float: right;
   }
 }
@@ -6207,10 +6206,11 @@ a:hover {
 @media (min-width: 768px) {
   #menu-primary-navigation {
     float: left;
+    padding-top: 14px;
   }
 }
 .navbar {
-  height: 100px;
+  height: 58px;
 }
 @media (max-width: 992px) {
   .navbar-brand img {
@@ -6226,7 +6226,7 @@ a:hover {
   }
 }
 .navbar-nav {
-  min-height: 100px;
+  min-height: 58px;
 }
 .navbar-toggle {
   margin-top: 30px;
@@ -6251,6 +6251,9 @@ a:hover {
 }
 .bottom-nav {
   height: 100px;
+}
+.nav-icon {
+  float: left;
 }
 /***********************/
 /* Above the Fold */
