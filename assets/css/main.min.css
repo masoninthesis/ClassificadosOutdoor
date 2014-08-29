@@ -6033,44 +6033,11 @@ a:hover {
 /***********************/
 /* NavBar */
 /***********************/
-@media (min-width: 768px) {
-  #menu-primary-navigation {
-    float: left;
-    padding-top: 14px;
-  }
-}
 .navbar {
   height: 58px;
 }
-@media (max-width: 992px) {
-  .navbar-brand img {
-    max-height: 24px;
-    margin-bottom: -20px;
-    margin-left: -20px;
-  }
-}
-@media (max-width: 768px) {
-  .navbar-brand img {
-    margin-bottom: -42px !important;
-    margin-left: 0px;
-  }
-}
-.navbar-nav {
-  min-height: 58px;
-}
 .navbar-toggle {
-  margin-top: 30px;
-}
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-  background-color: transparent;
-  height: 87px;
-}
-@media (max-width: 768px) {
-  nav ul li {
-    padding: 10px;
-  }
+  margin-top: 12px;
 }
 .footer-navbar {
   float: left;
@@ -6087,14 +6054,6 @@ a:hover {
 }
 .navbar-fixed-bottom {
   border-top: 1px #e7e7e7 solid;
-}
-.navbar-brand {
-  margin-top: 18px;
-}
-@media (min-width: 992px) {
-  .navbar-brand {
-    margin-top: 0px;
-  }
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
@@ -6252,41 +6211,6 @@ ul {
     width: 100%;
   }
 }
-/***********************/
-/* Body - Case Study Pages */
-/***********************/
-ol {
-  font-size: 24px;
-  color: #FFE03B;
-  text-transform: uppercase;
-  font-family: 'Open Sans', serif;
-  font-weight: 800;
-}
-ol p {
-  text-transform: none;
-  color: #333333;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 1.42857;
-  font-weight: 400;
-}
-ul {
-  padding-bottom: 48px;
-}
-ul li {
-  padding: 12px 0 12px;
-}
-.blog-hero {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  background-color: #ccc;
-}
-.blog-hero div {
-  padding: 8px 0 8px;
-}
-.t4tg-circle {
-  margin-top: 36px;
-}
 .body-bottom section {
   height: 400px;
 }
@@ -6297,31 +6221,8 @@ ul li {
 /***********************/
 /* Footer */
 /***********************/
-.t4tg-cta {
-  background-color: #fcda38;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-.jack-cols {
-  padding-top: 10px;
-}
-@media (min-width: 768px) {
-  .jack-cols {
-    padding-top: 30px;
-  }
-}
-#bottom-cta {
-  padding: 40px 0;
-}
-#bottom-cta div {
-  margin-bottom: 4px;
-}
-#bottom-cta div h4 {
-  font-weight: 400;
-}
-#bottom-cta-casestudy {
-  margin-bottom: 20px;
-  background-color: #f1f1f1;
+#menu-primary-navigation {
+  margin: 14px 0 14px;
 }
 /***********************/
 /* Sidebar */
