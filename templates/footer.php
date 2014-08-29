@@ -1,9 +1,9 @@
 <footer class="content-info" role="contentinfo">
   
-	<header class="navbar-fixed-bottom bottom-nav" role="navigation">
+	<header class="navbar-fixed-bottom" role="navigation">
 		<div class="container">
 			<div class="footer-navbar">
-				<nav class="collapse navbar-collapse">
+				<nav class="collapse navbar-collapse bottom-nav">
 					<?php
 					if (has_nav_menu('primary_navigation')) :
 					  wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav navbar-nav'));

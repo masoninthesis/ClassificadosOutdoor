@@ -21,19 +21,16 @@
   
 
   <section>
-  	<div class="row">
-	  	<div class="col-sm-4 col-sm-offset-4">
-	  		<ul class="list-inline">
-	  			<li>
-			  		<h4>Number 1</h3>
+  	<div class="row vertical-align">
+	  	<div class="col-sm-12">
+	  		<center><ul class="list-inline">
+	  			<li><a href="#">Number 1</a>
 	  			</li>
-	  			<li>
-		  			<h4>Number 2</h3>
+	  			<li><a href="#">Number 2</a>
 	  			</li>
-	  			<li>
-		  			<h4>Number 3</h3>
+	  			<li><a href="#">Number 3</a>
 	  			</li>
-	  		</ul>
+	  		</ul></center>
 	  	</div>
   </section>
 
