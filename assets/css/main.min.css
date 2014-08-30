@@ -6237,6 +6237,14 @@ ul {
 /***********************/
 /* Footer */
 /***********************/
+.footer {
+  min-height: 0px;
+}
+@media (min-width: 768px) {
+  .footer {
+    min-height: 78px;
+  }
+}
 #menu-primary-navigation {
   margin: 14px 0 14px;
 }

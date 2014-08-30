@@ -23,7 +23,7 @@
 
 <?php wp_footer(); ?>
 <footer class="content-info" role="contentinfo">
-	<header class="banner navbar-fixed-bottom" role="banner">
+	<header class="banner navbar-fixed-bottom footer" role="banner">
 	  <div class="container">
 	    <div class="navbar-header">
 	    </div>
