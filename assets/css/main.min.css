@@ -6245,6 +6245,21 @@ ul {
     min-height: 78px;
   }
 }
+.footer ul {
+  position: relative;
+  top: 50%;
+  transform: translateY(0%);
+}
+@media (min-width: 768px) {
+  .footer ul {
+    position: relative;
+    top: 50%;
+    transform: translateY(24%);
+  }
+}
+.footer img {
+  margin-top: -12px;
+}
 #menu-primary-navigation {
   margin: 14px 0 14px;
 }

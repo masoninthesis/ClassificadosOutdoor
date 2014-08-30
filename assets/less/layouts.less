@@ -261,6 +261,21 @@ ul {
 	@media (min-width: @screen-sm-min) {
 		min-height: 78px;
 	}
+	
+	ul {
+		position: relative;
+		top: 50%;
+		transform: translateY(0%);
+		
+		@media (min-width: @screen-sm-min) {
+			position: relative;
+			top: 50%;
+			transform: translateY(24%);	}
+	}
+	
+	img {
+		margin-top: -12px;
+	}
 }
 
 #menu-primary-navigation {
