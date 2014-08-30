@@ -5779,11 +5779,23 @@ button.close {
   }
 }
 /**************************************************************************/
-/* Constants LESS */
-/**************************************************************************/
-/**************************************************************************/
 /* Typography LESS */
 /**************************************************************************/
+.security-nav:hover {
+  color: #db713a !important;
+}
+.energy-nav:hover {
+  color: #32bebf !important;
+}
+.auto-nav:hover {
+  color: #bc3abc !important;
+}
+body {
+  font-family: "Avenir LT", Helvetica, Arial, sans-serif;
+}
+.btn {
+  color: #858585;
+}
 h1 {
   font-family: 'Avenir Black', helvetica, serif;
   font-weight: 600;
@@ -5809,6 +5821,18 @@ h4 {
   color: #3d3d3d;
   font-size: 18px;
 }
+.smart-home {
+  font-family: 'Avenir Black', helvetica, serif;
+}
+.price-security {
+  color: #db713a;
+}
+.price-energy {
+  color: #32bebf;
+}
+.price-auto {
+  color: #bc3abc;
+}
 @font-face {
   font-family: "Avenir LT";
   src: url('http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/fonts/AvenirLTStd-Light.otf') format('opentype');
@@ -5817,46 +5841,30 @@ h4 {
   font-family: "Avenir Black";
   src: url('http://masonlawlor.com//smartkdotit/wp-content/themes/SmartKit/assets/fonts/AvenirLTStd-Black.otf') format('opentype');
 }
-.list-inline {
-  font-family: 'Avenir Black', helvetica, serif;
-  font-size: 15px;
-}
-@media (min-width: 480px) {
-  .list-inline {
-    font-size: 18px;
-  }
-}
-@media (min-width: 768px) {
-  .list-inline {
-    font-size: 24px;
-  }
-}
-@media (min-width: 992px) {
-  .list-inline {
-    font-size: 36px;
-  }
-}
-@media (min-width: 1200px) {
-  .list-inline {
-    font-size: 42px;
-  }
+.required {
+  height: 48px;
+  border-radius: 4px;
+  border: 2px solid #ccc;
 }
 /**************************************************************************/
 /* UI LESS */
 /**************************************************************************/
+<<<<<<< HEAD
 .navbar-nav > li > a {
   line-height: 32px;
 }
 .navbar-default .navbar-nav > li > a {
   color: #ed381b;
 }
+=======
+>>>>>>> parent of 6d8a3f7... Not too bad. Replaced header and footer. mixing.
 .navbar-brand,
 .navbar-nav > li > a {
-  color: #ed381b;
+  color: #ED381B;
 }
 .navbar-brand,
 .navbar-nav > li > a:hover {
-  color: #cc3119;
+  color: #cd3119;
 }
 .nav > li > a:hover,
 .nav > li > a:hover {
@@ -5869,9 +5877,9 @@ h4 {
 .login-btn {
   margin-top: 9px;
   padding: 6px 22px 6px 22px;
-  border-color: #ed381b;
+  border-color: #ED381B;
   display: block;
-  background-color: #ed381b;
+  background-color: #ED381B;
   background-size: 2px 100%;
   background-position: 0 0, 100% 0;
   background-repeat: no-repeat;
@@ -6216,10 +6224,8 @@ ul {
   height: 400px;
 }
 .body-bottom section li {
-  padding: 20px;
-}
-.body-bottom section li a {
-  color: #313131;
+  padding: 24px;
+  font-size: 24px;
 }
 /***********************/
 /* Footer */

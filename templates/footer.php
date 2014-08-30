@@ -1,4 +1,4 @@
-<!--<footer class="content-info" role="contentinfo">
+<footer class="content-info" role="contentinfo">
   
 	<header class="navbar-fixed-bottom" role="navigation">
 		<div class="container">
@@ -19,9 +19,10 @@
 				</ul>
 		</div>
     </header>
-</footer>-->
+</footer>
 
 <?php wp_footer(); ?>
+<<<<<<< HEAD
 <footer class="content-info" role="contentinfo">
 	<header class="banner navbar navbar-fixed-bottom" role="banner">
 	  <div class="container">
@@ -48,5 +49,7 @@
 	  </div>
 	</header>
 </footer>
+=======
+>>>>>>> parent of 6d8a3f7... Not too bad. Replaced header and footer. mixing.
 
 
