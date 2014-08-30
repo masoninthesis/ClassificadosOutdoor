@@ -23,6 +23,7 @@
 
 <?php wp_footer(); ?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <footer class="content-info" role="contentinfo">
 	<header class="banner navbar navbar-fixed-bottom" role="banner">
 	  <div class="container">
@@ -49,6 +50,8 @@
 	  </div>
 	</header>
 </footer>
+=======
+>>>>>>> parent of 6d8a3f7... Not too bad. Replaced header and footer. mixing.
 =======
 >>>>>>> parent of 6d8a3f7... Not too bad. Replaced header and footer. mixing.
 

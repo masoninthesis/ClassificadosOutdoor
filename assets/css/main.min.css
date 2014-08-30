@@ -5850,12 +5850,15 @@ h4 {
 /* UI LESS */
 /**************************************************************************/
 <<<<<<< HEAD
+<<<<<<< HEAD
 .navbar-nav > li > a {
   line-height: 32px;
 }
 .navbar-default .navbar-nav > li > a {
   color: #ed381b;
 }
+=======
+>>>>>>> parent of 6d8a3f7... Not too bad. Replaced header and footer. mixing.
 =======
 >>>>>>> parent of 6d8a3f7... Not too bad. Replaced header and footer. mixing.
 .navbar-brand,
