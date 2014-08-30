@@ -24,11 +24,11 @@
   	<div class="row vertical-align">
 	  	<div class="col-sm-12">
 	  		<center><ul class="list-inline">
-	  			<li><a href="#">Number 1</a>
+	  			<li><a href="#">How it works</a>
 	  			</li>
-	  			<li><a href="#">Number 2</a>
+	  			<li><a href="#">Billboard Ads</a>
 	  			</li>
-	  			<li><a href="#">Number 3</a>
+	  			<li><a href="#">Classified Ads</a>
 	  			</li>
 	  		</ul></center>
 	  	</div>
