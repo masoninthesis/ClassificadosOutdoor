@@ -6025,6 +6025,13 @@ a:hover {
   background-color: #fff;
   border-radius: 4px;
 }
+.glyphicon-question-sign {
+  color: #ed381b;
+  font-size: 14px;
+}
+i {
+  vertical-align: top;
+}
 /**************************************************************************/
 /* Misc LESS */
 /**************************************************************************/

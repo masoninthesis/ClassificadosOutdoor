@@ -24,7 +24,7 @@
   	<div class="row vertical-align">
 	  	<div class="col-sm-12">
 	  		<center><ul class="list-inline">
-	  			<li><a href="#">How it works</a>
+	  			<li><a href="#"><i class="glyphicon glyphicon-question-sign"></i> How it works</a>
 	  			</li>
 	  			<li><a href="#">Billboard Ads</a>
 	  			</li>
