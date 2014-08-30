@@ -23,7 +23,7 @@
 
 <?php wp_footer(); ?>
 <footer class="content-info" role="contentinfo">
-	<header class="banner navbar-fixed-bottom" role="banner">
+	<header class="banner navbar navbar-fixed-bottom" role="banner">
 	  <div class="container">
 	    <div class="navbar-header">
 	      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
