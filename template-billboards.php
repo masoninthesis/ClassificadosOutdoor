@@ -17,7 +17,7 @@ Template Name: Billboard Template
 						<div class="caption">
 							<h3>Billboard 1</h3>
 							<p>Lorem Ipsum Dalorious Maximus YEah!</p>
-							<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-1/" class="btn btn-primary" role="button">Preview</a> <a href="#" class="btn btn-default" role="button">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
 						</div>
 					</div>
 				</div>
@@ -27,7 +27,7 @@ Template Name: Billboard Template
 						<div class="caption">
 							<h3>Billboard 2</h3>
 							<p>Lorem Ipsum Dalorious Maximus YEah!</p>
-							<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-2/" class="btn btn-primary" role="button">Preview</a> <a href="#" class="btn btn-default" role="button">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
 						</div>
 					</div>
 				</div>
@@ -37,7 +37,7 @@ Template Name: Billboard Template
 						<div class="caption">
 							<h3>Billboard 3</h3>
 							<p>Lorem Ipsum Dalorious Maximus YEah!</p>
-							<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-3/" class="btn btn-primary" role="button">Preview</a> <a href="#" class="btn btn-default" role="button">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
 						</div>
 					</div>
 				</div>
@@ -47,7 +47,7 @@ Template Name: Billboard Template
 						<div class="caption">
 							<h3>Billboard 4</h3>
 							<p>Lorem Ipsum Dalorious Maximus YEah!</p>
-							<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-4/" class="btn btn-primary" role="button">Preview</a> <a href="#" class="btn btn-default" role="button">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
 						</div>
 					</div>
 				</div>
