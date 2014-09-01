@@ -6156,6 +6156,9 @@ i {
 /***********************/
 /* Body - Home */
 /***********************/
+body {
+  padding-bottom: 90px;
+}
 .big-list {
   font-size: 24px;
   font-weight: 300;
@@ -6244,6 +6247,9 @@ ul {
 /***********************/
 /* Footer */
 /***********************/
+header {
+  background-color: #fff;
+}
 .footer {
   min-height: 0px;
 }
@@ -6274,7 +6280,6 @@ ul {
 /* Sidebar */
 /***********************/
 aside {
-  background-color: #FFE03B;
   margin-top: 30px;
   padding: 0px;
   border-radius: 6px;
