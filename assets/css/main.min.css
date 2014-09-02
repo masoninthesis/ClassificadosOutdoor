@@ -6250,3 +6250,21 @@ aside {
 .email {
   margin-top: 24px;
 }
+/***********************/
+/* Google Maps */
+/***********************/
+.google-maps {
+  position: relative;
+  padding-bottom: 33%;
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  padding: 20px;
+  border: none;
+}
