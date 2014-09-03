@@ -26,7 +26,7 @@ Template Name: Billboard Template
 			<div class="row">
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 1</h3>
 							<p><strong>Outbound:</strong> Edif. Baldorioty Billboard</p>
@@ -36,7 +36,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 2</h3>
 							<p><strong>Outbound:</strong> Outboard Billboard</p>
@@ -46,7 +46,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 3</h3>
 							<p><strong>Inbound:</strong> Pavia Billboard</p>
@@ -56,7 +56,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 4</h3>
 							<p>Expreso de Diego (Cerca a Plaza)</p>
@@ -68,7 +68,7 @@ Template Name: Billboard Template
 			<div class="row">
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 5</h3>
 							<p><strong>Inbound:</strong> La Roca Billboard</p>
@@ -78,7 +78,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 6</h3>
 							<p><strong>Inbound:</strong> Ochoa Billboard</p>
@@ -88,7 +88,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 7</h3>
 							<p><strong>Inbound:</strong> Martinez Nadal - Entrando a Guaynabo</p>
@@ -98,7 +98,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 8</h3>
 							<p><strong>Outbound:</strong> Martinez Nadal - Saliendo de Guaynabo</p>
@@ -110,7 +110,7 @@ Template Name: Billboard Template
 			<div class="row">
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 9</h3>
 							<p><strong>Inbound:</strong> Expreso Las Americas (Por Plaza - Domenech)</p>
@@ -120,7 +120,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 10</h3>
 							<p><strong>Outbound:</strong> Mayaguez</p>
@@ -130,7 +130,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 11</h3>
 							<p><strong>Outbound:</strong> Dorado</p>
@@ -140,7 +140,7 @@ Template Name: Billboard Template
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<div class="thumbnail">
-						<img data-src="holder.js/300x300" alt="...">
+						<!--<img data-src="holder.js/300x300" alt="...">-->
 						<div class="caption">
 							<h3>Billboard 12</h3>
 							<p>Expreso de Diego - Rexach</p>
