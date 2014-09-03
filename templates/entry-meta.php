@@ -1,6 +1,4 @@
 <div class="entry-meta">
-	<?php echo __('<em>By</em>', 'roots'); ?> 
-		<em>Billy Murphy | Follow him on <a href="http://twitter.com/billymurph" target="_blank">Twitter</a></em>
 	<div style="float:right;">
 		<?php
 			echo '<span class="comments-link">'; ?>
