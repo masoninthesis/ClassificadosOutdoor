@@ -26,7 +26,7 @@
 	  		<center><ul class="list-inline">
 	  			<li><a href="#"><i class="glyphicon glyphicon-question-sign"></i> How it works</a>
 	  			</li>
-	  			<li><a href="#">Billboard Ads</a>
+	  			<li><a href="http://masonlawlor.com/classificadosoutdoor/choose-your-billboard/">Billboard Ads</a>
 	  			</li>
 	  			<li><a href="#">Classified Ads</a>
 	  			</li>
