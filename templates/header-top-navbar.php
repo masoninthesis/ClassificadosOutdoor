@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img class="" src="http://masonlawlor.com//assets/icon.png" alt="logo-nav" width="auto" height="32px" /></a>
+      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img class="" src="http://masonlawlor.com//classificadosoutdoor/wp-content/themes/ClassificadosOnline/assets/img/icon.png" alt="logo-nav" width="auto" height="32px" /></a>
     </div>
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <!--<ul class="nav navbar-nav">

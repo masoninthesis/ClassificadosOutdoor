@@ -28,7 +28,7 @@
 	  			</li>
 	  			<li><a href="http://masonlawlor.com/classificadosoutdoor/choose-your-billboard/">Billboard Ads</a>
 	  			</li>
-	  			<li><a href="#">Classified Ads</a>
+	  			<li><a href="http://masonlawlor.com/adsdotmasonlawlordotcom/">Classified Ads</a>
 	  			</li>
 	  		</ul></center>
 	  	</div>

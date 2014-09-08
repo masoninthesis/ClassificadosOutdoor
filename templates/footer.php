@@ -14,7 +14,7 @@
 			</div>
 			<ul class="navbar-right">
 						<li>
-							<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//assets/Logo.png" alt="logo-nav" width="auto" height="48px" /></a>
+							<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//classificadosoutdoor/wp-content/themes/ClassificadosOnline/assets/img/Logo.png" alt="logo-nav" width="auto" height="48px" /></a>
 						</li>
 				</ul>
 		</div>
@@ -35,7 +35,7 @@
 			?>
 	      <ul class="nav navbar-nav navbar-right">
 	        <li>
-				<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//assets/Logo.png" alt="logo-nav" width="auto" height="48px" /></a>
+				<a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//classificadosoutdoor/wp-content/themes/ClassificadosOnline/assets/img/Logo.png" alt="logo-nav" width="auto" height="48px" /></a>
 			</li>
 	      </ul>
 	    </nav>
