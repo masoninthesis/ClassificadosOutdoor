@@ -6243,6 +6243,9 @@ aside {
 .fa-youtube {
   padding: 0 1px 0 1px;
 }
+.categories-2 {
+  width: 300px;
+}
 /***********************/
 /* Study CTA */
 /***********************/
@@ -6311,6 +6314,171 @@ aside {
 /***********************/
 /* Billboard */
 /***********************/
+.b1,
+b2,
+b4,
+b5,
+b6 {
+  width: 1408px;
+  height: 384px;
+  margin: 0 auto;
+}
+.b1 .post-title,
+b2 .post-title,
+b4 .post-title,
+b5 .post-title,
+b6 .post-title {
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+}
+.b1 .post-content,
+b2 .post-content,
+b4 .post-content,
+b5 .post-content,
+b6 .post-content {
+  color: #fff;
+  font-size: 48px;
+}
+.b3 {
+  width: 736px;
+  height: 352px;
+  margin: 0 auto;
+}
+.b3 .post-title {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+.b3 .post-content {
+  color: #fff;
+  font-size: 28px;
+}
+.b3 .post-image {
+  padding: 2px 4px 24px 33px;
+}
+.b3 .post-body {
+  margin-top: 32px;
+}
+.b7 {
+  width: 864px;
+  height: 736px;
+  margin: 0 auto;
+}
+.b7 .post-title {
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+  text-align: center;
+}
+.b7 .post-content {
+  color: #fff;
+  font-size: 48px;
+  text-align: center;
+}
+.b7 .post-body {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.b7 .post-body ul {
+  -webkit-padding-start: 0;
+}
+.b7 .post-image {
+  margin: 0 auto;
+  display: block;
+}
+.b7 .post-image img {
+  margin: 0 auto;
+  display: block;
+}
+.b8 {
+  width: 1024px;
+  height: 864px;
+  margin: 0 auto;
+}
+.b8 .post-title {
+  color: #fff;
+  font-size: 78px;
+  font-weight: bold;
+  text-align: center;
+}
+.b8 .post-content {
+  color: #fff;
+  font-size: 56px;
+  text-align: center;
+}
+.b8 .post-body {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.b8 .post-body ul {
+  -webkit-padding-start: 0;
+}
+.b8 .post-image {
+  margin: 0 auto;
+  display: block;
+}
+.b8 .post-image img {
+  margin: 0 auto;
+  display: block;
+}
+.b9,
+b11 {
+  width: 528px;
+  height: 176px;
+  margin: 0 auto;
+}
+.b9 .post-title,
+b11 .post-title {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+}
+.b9 .post-content,
+b11 .post-content {
+  color: #fff;
+  font-size: 18px;
+}
+.b9 .post-image,
+b11 .post-image {
+  padding: 4px 4px 4px 18px;
+}
+.b10 {
+  width: 1620px;
+  height: 468px;
+  margin: 0 auto;
+}
+.b10 .post-title {
+  color: #fff;
+  font-size: 88px;
+  font-weight: bold;
+}
+.b10 .post-content {
+  color: #fff;
+  font-size: 68px;
+}
+.b10 .post-image {
+  padding: 10px 34px 24px 33px;
+}
+.b12 {
+  width: 1434px;
+  height: 435px;
+  margin: 0 auto;
+}
+.b12 .post-title {
+  color: #fff;
+  font-size: 76px;
+  font-weight: bold;
+}
+.b12 .post-content {
+  color: #fff;
+  font-size: 58px;
+}
+.b12 .post-image {
+  padding: 10px 34px 24px 33px;
+}
 .widget {
   display: inline-block;
   /* canvas doesn't work without this line- weird */
@@ -6322,25 +6490,18 @@ aside {
   background-repeat: no-repeat;
   background-position: right bottom;
 }
-.post-title {
-  color: #fff;
-  font-size: 72px;
-  font-weight: bold;
-}
-.post-content {
-  color: #fff;
-  font-size: 48px;
-}
-.site-container {
-  width: 1408px;
-  height: 384px;
-  margin: 0 auto;
+.billboard-bg-b9 {
+  background-color: #000;
+  padding: 24px;
+  background-image: url(http://masonlawlor.com//classificadosoutdoor/wp-content/themes/ClassificadosOnline/assets/img/billboard-logo-b9.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
 }
 .inline {
   display: inline-block;
 }
 .post-body {
-  margin-top: -20px;
+  vertical-align: top;
 }
 .post-body ul {
   list-style: none;
