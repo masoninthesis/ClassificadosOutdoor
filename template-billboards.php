@@ -122,7 +122,7 @@ Template Name: Billboard Template
 						<div class="caption">
 							<h3><a href="http://masonlawlor.com/classificadosoutdoor/billboard-8/">Billboard 8</a></h3>
 							<p><strong>Outbound:</strong> Martinez Nadal - Saliendo de Guaynabo</p>
-							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-8/" class="btn btn-primary" role="button">Select</a> <a class="btn btn-default" role="button" id="myToolTip8" data-toggle="tooltip" data-placement="top" title="Image should be 420x300 pixels in size">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
+							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-8/" class="btn btn-primary" role="button">Select</a> <a class="btn btn-default" role="button" id="myToolTip8" data-toggle="tooltip" data-placement="top" title="Image should be 946x356 pixels in size">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
 						</div>
 					</div>
 				</div>
