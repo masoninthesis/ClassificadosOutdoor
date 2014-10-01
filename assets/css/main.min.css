@@ -6031,7 +6031,6 @@ a:hover {
 }
 .navbar-fixed-bottom {
   border-top: 1px #e7e7e7 solid;
-  opacity: 0.8;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,

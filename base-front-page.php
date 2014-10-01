@@ -24,7 +24,7 @@
   	<div class="row vertical-align">
 	  	<div class="col-sm-12">
 	  		<center><ul class="list-inline">
-	  			<li><a href="#"><i class="glyphicon glyphicon-question-sign"></i> How it works</a>
+	  			<li><a href="//fast.wistia.net/embed/iframe/zt12a4bcqv?popover=true" class="wistia-popover[height=360,playerColor=e00505,width=640]"><i class="glyphicon glyphicon-question-sign"></i> How it works</a>
 	  			</li>
 	  			<li><a href="http://masonlawlor.com/classificadosoutdoor/choose-your-billboard/">Billboard Ads</a>
 	  			</li>
@@ -34,8 +34,9 @@
 	  	</div>
   </section>
 
-
   <?php get_template_part('templates/footer'); ?>
+  
+  <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
   
 <!-- pop-up modal -->
 <script type="text/javascript"
