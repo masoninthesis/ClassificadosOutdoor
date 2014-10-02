@@ -28,7 +28,7 @@
         </li>
       </ul>-->
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="" type="button" class="" data-toggle="modal" data-target="#myModal">Login</a></li>
+        <li><a href="http://masonlawlor.com/adsdotmasonlawlordotcom/wp-login.php?action=login" type="button" class="">Login</a></li>
       </ul>
     </nav>
   </div>

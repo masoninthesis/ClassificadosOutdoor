@@ -28,135 +28,34 @@ Template Name: Pricing Template
 	<!-- Pricing Table -->
 	<section>
 		<div class="container">
-			<table class="span6 center-table table-striped table-bordered table">
-				<caption><p class="lead BottomPadding ContentRow1Links-30">Propiedad Confidencialde:</p></caption>
-				<thead>
-					<tr>
-						<th class="Green">Rotaciones/ dia</th>
-						<th class="Green"><center>Rate</center></th>
-						<th class="Green"><center>Max space</center></th>
-						<th class="Green"><center>Max in day</center></th>
-						<th class="Green"><center>Monthly</center></th>
-						<th class="Green"><center>Monthly</center></th>
-						<th class="Green"><center>Monthly</center></th>
-						<th class="Green"><center>Monthly </center></th>
-					<tbody>
+			<div class="col-sm-6 col-sm-offset-3">
+				<table class="center-table table-striped table-bordered table">
+					<caption><p class="lead BottomPadding ContentRow1Links-30">Propiedad Confidencialde:</p></caption>
+					<thead>
 						<tr>
-							<td></td>
-							<td><center></center></td>
-							<td><center></center></td>
-							<td><center></center></td>
-							<td><center>100%</center></td>
-							<td><center>75%</center></td>
-							<td><center>50%</center></td>
-							<td><center>25%</center></td>
+							<th class="Green">Rotaciones/ dia</th>
+							<th class="Green"><center>Rate</center></th>
+						<tbody>
+							<tr>
+								<td>1440</td>
+								<td><center>$150.00</center></td>
+							</tr>
+							<tr>
+								<td>720</td>
+								<td><center>$85.00</center></td>
+							<tr>
+								<td>360</td>
+								<td><center>$45.00</center></td>
+							</tr>
+							<tr>
+								<td>180</td>
+								<td><center>$25.00</center></td>
+							</tr>
+						</tbody>
 						</tr>
-						<tr>
-							<td>1440</td>
-							<td><center>$150.00</center></td>
-							<td><center>1</center></td>
-							<td class="warning"><center>$150.00</center></td>
-							<td><center>$4500.00</center></td>
-							<td><center>$3375.00</center></td>
-							<td><center>$2250.00</center></td>
-							<td><center>$1125.00</center></td>
-						</tr>
-						<tr>
-							<td>720</td>
-							<td><center>$85.00</center></td>
-							<td><center>2</center></td>
-							<td class="warning"><center>$170.00</center></td>
-							<td><center>$5100.00</center></td>
-							<td><center>$3825.00</center></td>
-							<td><center>$2550.00</center></td>
-							<td><center>$1275.00</center></td>
-						</tr>
-						<tr>
-							<td>360</td>
-							<td><center>$45.00</center></td>
-							<td><center>4</center></td>
-							<td class="warning"><center>$180.00</center></td>
-							<td><center>$5400.00</center></td>
-							<td><center>$4050.00</center></td>
-							<td><center>$2700.00</center></td>
-							<td><center>$1350.00</center></td>
-						</tr>
-						<tr>
-							<td>180</td>
-							<td><center>$25.00</center></td>
-							<td><center>8</center></td>
-							<td class="warning"><center>$200.00</center></td>
-							<td><center>$6000.00</center></td>
-							<td><center>$4500.00</center></td>
-							<td><center>$3000.00</center></td>
-							<td><center>$1500.00</center></td>
-						</tr>
-					</tbody>
-					</tr>
-				</thead>
-			</table>
-			<table class="span6 center-table table-striped table-bordered table">
-				<caption><p class="lead BottomPadding ContentRow1Links-30">Discounts:</p></caption>
-				<thead>
-					<tr>
-						<th class="Green">Rotaciones/ dia</th>
-						<th class="Green"><center>Rate</center></th>
-						<th class="Green"><center>Max space</center></th>
-						<th class="Green"><center>Max in day</center></th>
-						<th class="Green"><center>x 30 days</center></th>						
-						<th class="Green"><center>Monthly</center></th>
-						<th class="Green"><center>10%</center></th>
-						<th class="Green"><center>15%</center></th>
-						<th class="Green"><center>20%</center></th>
-					<tbody>
-						<tr>
-							<td>1440</td>
-							<td><center>$150.00</center></td>
-							<td><center>1</center></td>
-							<td class="warning"><center>$150.00</center></td>
-							<td><center>30</center></td>
-							<td><center>$4500.00</center></td>
-							<td class="danger"><center>$4050.00</center></td>
-							<td><center>$3825.00</center></td>
-							<td><center>$3600.00</center></td>
-						</tr>
-						<tr>
-							<td>720</td>
-							<td><center>$85.00</center></td>
-							<td><center>2</center></td>
-							<td class="warning"><center>$170.00</center></td>
-							<td><center>30</center></td>
-							<td><center>$5100.00</center></td>
-							<td><center>$4590.00</center></td>
-							<td class="danger"><center>$4335.00</center></td>
-							<td><center>$4080.00</center></td>
-						</tr>
-						<tr>
-							<td>360</td>
-							<td><center>$45.00</center></td>
-							<td><center>4</center></td>
-							<td class="warning"><center>$180.00</center></td>
-							<td><center>30</center></td>
-							<td><center>$5400.00</center></td>
-							<td><center>$4860.00</center></td>
-							<td><center>$4590.00</center></td>
-							<td class="danger"><center>$4320.00</center></td>
-						</tr>
-						<tr>
-							<td>180</td>
-							<td><center>$25.00</center></td>
-							<td><center>8</center></td>
-							<td class="warning"><center>$200.00</center></td>
-							<td><center>30</center></td>
-							<td><center>$6000.00</center></td>
-							<td><center>$5400.00</center></td>
-							<td><center>$5100.00</center></td>
-							<td class="danger"><center>$4800.00</center></td>
-						</tr>
-					</tbody>
-					</tr>
-				</thead>
-			</table>
+					</thead>
+				</table>
+			</div>
 		</div>
 	</section> 
 </body>
