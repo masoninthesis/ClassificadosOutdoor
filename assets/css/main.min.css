@@ -6347,6 +6347,25 @@ b6 .post-content {
   color: #fff;
   font-size: 48px;
 }
+.b1 .post-image,
+b2 .post-image,
+b4 .post-image,
+b5 .post-image,
+b6 .post-image {
+  overflow: hidden;
+  height: 300px;
+  width: 420px;
+}
+.b1 .post-image img,
+b2 .post-image img,
+b4 .post-image img,
+b5 .post-image img,
+b6 .post-image img {
+  display: block;
+  max-width: 100%;
+  height: 300px;
+  width: 420px;
+}
 .b3 {
   width: 736px;
   height: 352px;
@@ -6363,6 +6382,13 @@ b6 .post-content {
 }
 .b3 .post-image {
   padding: 2px 4px 24px 33px;
+}
+.b3 .post-image img {
+  vertical-align: bottom;
+  display: block;
+  max-width: 100%;
+  height: 300px;
+  width: 300px;
 }
 .b3 .post-body {
   margin-top: 32px;
@@ -6398,6 +6424,10 @@ b6 .post-content {
 .b7 .post-image img {
   margin: 0 auto;
   display: block;
+  vertical-align: bottom;
+  max-width: 100%;
+  height: auto;
+  width: 420px;
 }
 .b8 {
   width: 1024px;
@@ -6430,6 +6460,10 @@ b6 .post-content {
 .b8 .post-image img {
   margin: 0 auto;
   display: block;
+  vertical-align: bottom;
+  max-width: 100%;
+  height: auto;
+  width: 356px;
 }
 .b9,
 b11 {
@@ -6452,6 +6486,15 @@ b11 .post-content {
 b11 .post-image {
   padding: 4px 4px 4px 18px;
 }
+.b9 .post-image img,
+b11 .post-image img {
+  margin: 0 auto;
+  display: block;
+  vertical-align: bottom;
+  max-width: 100%;
+  height: auto;
+  width: 168px;
+}
 .b10 {
   width: 1620px;
   height: 468px;
@@ -6469,6 +6512,14 @@ b11 .post-image {
 .b10 .post-image {
   padding: 10px 34px 24px 33px;
 }
+.b10 .post-image img {
+  margin: 0 auto;
+  display: block;
+  vertical-align: bottom;
+  max-width: 100%;
+  height: auto;
+  width: 560px;
+}
 .b12 {
   width: 1434px;
   height: 435px;
@@ -6485,6 +6536,14 @@ b11 .post-image {
 }
 .b12 .post-image {
   padding: 10px 34px 24px 33px;
+}
+.b12 .post-image img {
+  margin: 0 auto;
+  display: block;
+  vertical-align: bottom;
+  max-width: 100%;
+  height: auto;
+  width: 420px;
 }
 .widget {
   display: inline-block;
@@ -6518,4 +6577,7 @@ b11 .post-image {
 }
 .post-image img {
   vertical-align: bottom;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
