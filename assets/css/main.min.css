@@ -6347,25 +6347,6 @@ b6 .post-content {
   color: #fff;
   font-size: 48px;
 }
-.b1 .post-image,
-b2 .post-image,
-b4 .post-image,
-b5 .post-image,
-b6 .post-image {
-  overflow: hidden;
-  height: 300px;
-  width: 420px;
-}
-.b1 .post-image img,
-b2 .post-image img,
-b4 .post-image img,
-b5 .post-image img,
-b6 .post-image img {
-  display: block;
-  max-width: 100%;
-  height: 300px;
-  width: 420px;
-}
 .b3 {
   width: 736px;
   height: 352px;
@@ -6385,10 +6366,6 @@ b6 .post-image img {
 }
 .b3 .post-image img {
   vertical-align: bottom;
-  display: block;
-  max-width: 100%;
-  height: 300px;
-  width: 300px;
 }
 .b3 .post-body {
   margin-top: 32px;
@@ -6425,9 +6402,6 @@ b6 .post-image img {
   margin: 0 auto;
   display: block;
   vertical-align: bottom;
-  max-width: 100%;
-  height: auto;
-  width: 420px;
 }
 .b8 {
   width: 1024px;
@@ -6461,9 +6435,6 @@ b6 .post-image img {
   margin: 0 auto;
   display: block;
   vertical-align: bottom;
-  max-width: 100%;
-  height: auto;
-  width: 356px;
 }
 .b9,
 b11 {
@@ -6491,9 +6462,6 @@ b11 .post-image img {
   margin: 0 auto;
   display: block;
   vertical-align: bottom;
-  max-width: 100%;
-  height: auto;
-  width: 168px;
 }
 .b10 {
   width: 1620px;
@@ -6516,9 +6484,6 @@ b11 .post-image img {
   margin: 0 auto;
   display: block;
   vertical-align: bottom;
-  max-width: 100%;
-  height: auto;
-  width: 560px;
 }
 .b12 {
   width: 1434px;
@@ -6541,9 +6506,6 @@ b11 .post-image img {
   margin: 0 auto;
   display: block;
   vertical-align: bottom;
-  max-width: 100%;
-  height: auto;
-  width: 420px;
 }
 .widget {
   display: inline-block;

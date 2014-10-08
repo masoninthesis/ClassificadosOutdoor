@@ -17,3 +17,16 @@ require_once locate_template('/lib/relative-urls.php');   // Root relative URLs
 require_once locate_template('/lib/widgets.php');         // Sidebars and widgets
 require_once locate_template('/lib/scripts.php');         // Scripts and stylesheets
 require_once locate_template('/lib/custom.php');          // Custom functions
+
+add_image_size( 'billboard1-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard2-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard3-thumb', 300, 300, true ); // (cropped)
+add_image_size( 'billboard4-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard5-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard6-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard7-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard8-thumb', 946, 356, true ); // (cropped)
+add_image_size( 'billboard9-thumb', 168, 120, true ); // (cropped)
+add_image_size( 'billboard10-thumb', 560, 400, true ); // (cropped)
+add_image_size( 'billboard11-thumb', 420, 300, true ); // (cropped)
+add_image_size( 'billboard12-thumb', 420, 300, true ); // (cropped)
