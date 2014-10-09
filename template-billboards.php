@@ -50,7 +50,7 @@ Template Name: Billboard Template
 						<div class="caption">
 							<h3><a href="http://masonlawlor.com/classificadosoutdoor/billboard-1/">Billboard 1</a></h3>
 							<p>Outbound:<strong> Edif. Baldorioty Billboard</strong></p>
-							<p><a href="http://masonlawlor.com/classificadosoutdoor/billboard-1/" class="btn btn-primary" role="button">Seleccione</a> <a class="btn btn-default" role="button" id="myToolTip1" data-toggle="tooltip" data-placement="top" title="Imagen debe ser 420x300 pixeles en tama&#241;o">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
+							<p><a href="http://clasificadosoutdoor.com/billboard-1/" class="btn btn-primary" role="button">Seleccione</a> <a class="btn btn-default" role="button" id="myToolTip1" data-toggle="tooltip" data-placement="top" title="Imagen debe ser 420x300 pixeles en tama&#241;o">Info <i class="glyphicon glyphicon-info-sign"></i></a></p>
 						</div>
 					</div>
 				</div>

@@ -26,7 +26,7 @@
 	  		<center><ul class="list-inline">
 	  			<li><a href="//fast.wistia.net/embed/iframe/zt12a4bcqv?popover=true" class="wistia-popover[height=360,playerColor=e00505,width=640]"><i class="glyphicon glyphicon-question-sign"></i> C&#243;mo funciona</a>
 	  			</li>
-	  			<li><a href="http://masonlawlor.com/classificadosoutdoor/escoja-su-billboard/">Publica en Billboard</a>
+	  			<li><a href="http://clasificadosoutdoor.com/escoja-su-billboard/">Publica en Billboard</a>
 	  			</li>
 	  			<li><a href="http://masonlawlor.com/adsdotmasonlawlordotcom/">Publica Online</a>
 	  			</li>

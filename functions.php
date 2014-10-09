@@ -30,3 +30,4 @@ add_image_size( 'billboard9-thumb', 168, 120, true ); // (cropped)
 add_image_size( 'billboard10-thumb', 560, 400, true ); // (cropped)
 add_image_size( 'billboard11-thumb', 420, 300, true ); // (cropped)
 add_image_size( 'billboard12-thumb', 420, 300, true ); // (cropped)
+
