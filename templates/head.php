@@ -13,7 +13,6 @@
   <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
   
   <!-- Canvas2Image -->
-  <script type="text/javascript" src="http://masonlawlor.com/assets/jsfiddle/index_files/jquery-1.9.1.js"></script>
   <script type="text/javascript" src="http://masonlawlor.com/assets/jsfiddle/index_files/html2canvas.js"></script>
   <script type="text/javascript" src="http://masonlawlor.com/assets/jsfiddle/index_files/base64.js"></script>
   <script type="text/javascript" src="http://masonlawlor.com//assets/jsfiddle/index_files/canvas2image.js"></script>

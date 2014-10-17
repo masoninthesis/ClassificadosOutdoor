@@ -37,7 +37,7 @@
         </span>
 	  <br>
 
-	     <div id="img-out"><canvas width="362" height="30"></canvas></div>
+	     <div id="img-out"><canvas></canvas></div>
     </div>
     <footer>
       <?php wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?>
