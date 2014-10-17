@@ -30,7 +30,6 @@ Template Name: Pricing Template
 		<div class="container">
 			<div class="col-sm-6 col-sm-offset-3">
 				<table class="center-table table-striped table-bordered table">
-					<caption><p class="lead BottomPadding ContentRow1Links-30">Propiedad Confidencialde:</p></caption>
 					<thead>
 						<tr>
 							<th class="Green">Rotaciones/ dia</th>
