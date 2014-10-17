@@ -1,7 +1,5 @@
 <?php
-/**
- * Roots includes
- */
+/* Roots includes */
 require_once locate_template('/lib/utils.php');           // Utility functions
 require_once locate_template('/lib/init.php');            // Initial theme setup and constants
 require_once locate_template('/lib/wrapper.php');         // Theme wrapper class
@@ -18,6 +16,8 @@ require_once locate_template('/lib/widgets.php');         // Sidebars and widget
 require_once locate_template('/lib/scripts.php');         // Scripts and stylesheets
 require_once locate_template('/lib/custom.php');          // Custom functions
 
+
+/* Auto size and crop */
 add_image_size( 'billboard1-thumb', 420, 300, true ); // (cropped)
 add_image_size( 'billboard2-thumb', 420, 300, true ); // (cropped)
 add_image_size( 'billboard3-thumb', 300, 300, true ); // (cropped)
@@ -30,4 +30,16 @@ add_image_size( 'billboard9-thumb', 168, 120, true ); // (cropped)
 add_image_size( 'billboard10-thumb', 560, 400, true ); // (cropped)
 add_image_size( 'billboard11-thumb', 420, 300, true ); // (cropped)
 add_image_size( 'billboard12-thumb', 420, 300, true ); // (cropped)
+
+/* Minimum Characters 
+new GW_Minimum_Characters( array( 
+    'form_id' => 3,
+    'field_id' => 1,
+    'max_chars' => 5,
+    'min_validation_message' => __( 'Oops! You need to enter at least %s characters.' ),
+    'max_validation_message' => __( 'Oops! You can only enter %s characters.' )
+) );
+
+*/
+
 
