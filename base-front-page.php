@@ -28,7 +28,7 @@
 	  			</li>
 	  			<li><a href="http://clasificadosoutdoor.com/escoja-su-billboard/">Publica en Billboard</a>
 	  			</li>
-	  			<li><a href="http://masonlawlor.com/adsdotmasonlawlordotcom/">Publica Online</a>
+	  			<li><a href="http://ads.clasificadosoutdoor.com/">Publica Online</a>
 	  			</li>
 	  		</ul></center>
 	  	</div>
@@ -38,7 +38,7 @@
   
   <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
   
-<!-- pop-up modal -->
+<!-- pop-up modal 
 <script type="text/javascript"
         src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js"></script>
   <script type="text/javascript">
@@ -70,13 +70,13 @@
           	<center><iframe src="//fast.wistia.net/embed/iframe/6y2igsba97?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script></center>
     			
 	      
-					      <!-- Mailchimp -->
+					      <!-- Mailchimp 
 							<center><form class="form-inline" id="before_header" action="//smartk.us8.list-manage.com/subscribe/post?u=99a776394eb3b3549e7c5e53c&amp;id=628848161c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 								<input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="Email address.." required>
 							<button id="header-optin-click" name="submit" onClick="ga('send', 'event', 'optin', 'subscribe', 'header optin');" class="btn hero-btn btn-lg" type="submit" value="Submit" tabindex="501">Subscribe</button>
 							
-							</form></center> <!-- /Mailchimp -->
-	      </div><!-- /optin -->
+							</form></center> <!-- /Mailchimp 
+	      </div><!-- /optin 
 		  <br><br>
           </div>
         </div>
