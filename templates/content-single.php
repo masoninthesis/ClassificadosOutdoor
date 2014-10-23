@@ -21,8 +21,7 @@
 				<input type="hidden" name="currency_code" value="USD">
 				<input type="image" src="http://masonlawlor.com//classificadosoutdoor/wp-content/themes/ClassificadosOnline/assets/img/paypal-btn.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-				</form>
-
+			</form>
 
 			<a href="" class="btn btn-primary btn-pad" id="btnSave">
 				<i class="fa fa-cloud-download"> Save</i>
@@ -30,15 +29,14 @@
 			<a href="" class="btn btn-primary btn-pad" id="btnSave">
 				<i class="fa fa-undo"> Redo</i>
 			</a>
-		</div>
 
-		<span id="widget" class="widget" field="AGE" roundby="20" description="Patient age, in years">
-        	<?php the_content(); ?>
-        </span>
-	  <br>
-
-	     <div id="img-out"><canvas></canvas></div>
-    </div>
+			<span id="widget" class="widget">
+    			<?php the_content(); ?>
+    		</span>
+	  		<br>
+    		<div id="img-out"><canvas></canvas></div>
+    	</div>
+  	</div>
     <footer>
       <?php wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?>
     </footer>
