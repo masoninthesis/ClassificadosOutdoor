@@ -34,7 +34,7 @@
     			<?php the_content(); ?>
     		</span>
 	  		<br>
-    		<div id="img-out"><canvas></canvas></div>
+    		<div id="img-out"><canvas width="362" height="30"></canvas></div>
     	</div>
   	</div>
     <footer>
