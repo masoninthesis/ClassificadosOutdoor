@@ -19,7 +19,7 @@
 				</table>
 				<br>
 				<input type="hidden" name="currency_code" value="USD">
-				<input type="image" src="http://masonlawlor.com//classificadosoutdoor/wp-content/themes/ClassificadosOnline/assets/img/paypal-btn.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<input type="image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/paypal-btn.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 			</form>
 
