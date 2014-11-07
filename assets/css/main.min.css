@@ -5847,6 +5847,9 @@ h4 {
 /***********/
 /* Navbar */
 /***********/
+header {
+  opacity: .9;
+}
 .navbar-default .navbar-toggle {
   border-color: #fff;
 }

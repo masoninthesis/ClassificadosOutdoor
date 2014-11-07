@@ -8,32 +8,17 @@
     	<div class="container">
         <div id="paypal" class="col-xs-12">
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_xclick">
-            <input type="hidden" name="business" value="info@clasificadosoutdoor.com">
-            <input type="hidden" name="lc" value="US">
-            <input type="hidden" name="item_name" value="Clasificados">
-            <input type="hidden" name="button_subtype" value="services">
-            <input type="hidden" name="no_note" value="0">
-            <input type="hidden" name="currency_code" value="USD">
-            <input type="hidden" name="bn" value="PP-BuyNowBF:paypal-btn.png:NonHostedGuest">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="68ZZS3TGNE2Y8">
             <table>
             <tr><td><input type="hidden" name="on0" value="Rates">Rates</td></tr><tr><td><select name="os0">
-              <option value="1440">1440 $150.00 USD</option>
-              <option value="720">720 $85.00 USD</option>
-              <option value="360">360 $45.00 USD</option>
-              <option value="180">180 $25.00 USD</option>
+            	<option value="1440">1440 $150.00 USD</option>
+            	<option value="720">720 $85.00 USD</option>
+            	<option value="360">360 $45.00 USD</option>
+            	<option value="180">180 $25.00 USD</option>
             </select> </td></tr>
             </table>
             <input type="hidden" name="currency_code" value="USD">
-            <input type="hidden" name="option_select0" value="1440">
-            <input type="hidden" name="option_amount0" value="150.00">
-            <input type="hidden" name="option_select1" value="720">
-            <input type="hidden" name="option_amount1" value="85.00">
-            <input type="hidden" name="option_select2" value="360">
-            <input type="hidden" name="option_amount2" value="45.00">
-            <input type="hidden" name="option_select3" value="180">
-            <input type="hidden" name="option_amount3" value="25.00">
-            <input type="hidden" name="option_index" value="0">
             <input class="pay-btn" type="image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/paypal-btn.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
