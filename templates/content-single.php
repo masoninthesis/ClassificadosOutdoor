@@ -38,7 +38,7 @@
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
         </div>
-        <div id="note" class="col-xs-5">
+        <div id="note" class="col-sm-5 col-xs-12">
           <div class="alert alert-warning">ó llamar 787-641-1191 para alternativa de pago</div>
         </div>
         <div id="btns" class="col-xs-12">
