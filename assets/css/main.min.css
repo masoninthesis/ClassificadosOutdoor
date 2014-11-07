@@ -6560,8 +6560,14 @@ aside {
   border: none;
 }
 /***********************/
-/* Billboard */
+/* Billboard Page */
 /***********************/
+#paypal {
+  padding-bottom: 8px;
+}
+#paypal .pay-btn {
+  padding-top: 8px;
+}
 .bold {
   font-weight: bold;
 }
